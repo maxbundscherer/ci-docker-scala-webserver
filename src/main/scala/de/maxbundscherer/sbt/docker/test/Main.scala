@@ -8,4 +8,8 @@ object Main extends App {
 
   webServerService.start()
 
+  val version = java.lang.Runtime.version()
+
+  println(s"Version (${version.toString})")
+
 }
