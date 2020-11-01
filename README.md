@@ -1,4 +1,6 @@
-# SBT Docker Test
+# SBT Docker Scala Webserver GitHub Packages
+
+Runs webserver written in scala in docker container. Publishing-script to GitHub-Packages included.
 
 ## Requirements
 
