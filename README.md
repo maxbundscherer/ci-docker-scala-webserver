@@ -15,6 +15,6 @@
 
 - Run ``./deploy.sh``
 
-### Pull from github packages
+### Pull/Run from github packages
 
-- Run ``./pull-image.sh``
+- Run ``./pull-run-image.sh``
