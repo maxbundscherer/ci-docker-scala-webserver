@@ -14,3 +14,7 @@
 ### Publish to github packages
 
 - Run ``./deploy.sh``
+
+### Pull from github packages
+
+- Run ``./pull-image.sh``
